@@ -9,14 +9,10 @@ Micro-servicio para registro de usuarios.
 
 - [Descripción](#descripción)
 - [Detalle de Funcionalidades](#detalle-de-funcionalidades)
-- [Arquitectura](#arquitectura)
 - [Construido con](#construido-con)
 - [Desarrollo](#desarrollo)
-- [Proyectos relacionados](#proyectos-relacionados)
-- [Endpoints](#endpoints)
-- [APikeys](#APikeys)
 - [Autores](#autores)
-- [Licencia](#licencia)
+
 ---
 
 ## Descripción
@@ -150,7 +146,7 @@ El código se encuentra implementado con Java 11.0.9 y SpringBoot 2.7.5
 A continuación se detallan los módulos o funcionalidades que usan los servicios contenidos en este servicio:
 
 ### polizas-cumplimiento-micrositios-
-- URL de Github:  [Repositorio](https://github.com/segurosbolivar/comunes-poliza-cumplimiento-ms)
+- URL de Github:  [Repositorio](https://github.com/DACOSPE/Api.git)
 
 	
 ---
